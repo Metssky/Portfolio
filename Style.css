@@ -1,0 +1,39 @@
+img {
+  max-width: 760px;
+  float: left;
+  margin-left: auto;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.wrapper {
+  margin: auto;
+  width: auto;
+}
+
+.bg1 {
+  background-color: #a5c9ca;
+}
+
+.text-box {
+  text-align: right;
+  padding-right: 775px;
+  padding-top: 270px;
+  padding-bottom: 370px;
+}
+
+.gelombang {
+  position: relative;
+  width: 1512px;
+  top: -270px;
+}
+
+.img1 {
+  max-width: 1280px;
+}
